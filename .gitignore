@@ -2,7 +2,8 @@ blindtty
 retty
 test
 *.i
-
+build/
+bin/
 # Object files
 *.o
 
