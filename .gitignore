@@ -2,3 +2,13 @@ blindtty
 retty
 test
 *.i
+
+# Object files
+*.o
+
+# Modern 64-bit executables
+retty64
+blindtty64
+
+# Temporary files
+*~
